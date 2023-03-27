@@ -5,6 +5,12 @@
 			"referenceName": "AzureBlobStorage1Source",
 			"type": "LinkedServiceReference"
 		},
+		"parameters": {
+			"parameter1": {
+				"type": "int",
+				"defaultValue": 1
+			}
+		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
