@@ -10,7 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"folderPath": " data1",
+				"fileName": "HistoricalData_Apple.csv",
+				"folderPath": " data2",
 				"container": "test"
 			},
 			"columnDelimiter": ",",
